@@ -1,8 +1,4 @@
-# Dental Clinic Appointment Reservation System v1.0 has stored cross-site scripting
-
 BUG_Author: DaXian.Li
-
-Website source code address: https://www.sourcecodester.com/php/6848/appointment-reservation-system.html
 
 Vulnerability File: /APR/admin/service.php
 
